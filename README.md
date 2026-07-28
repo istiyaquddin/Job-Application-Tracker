@@ -8,7 +8,7 @@ Designed with a clean UI and intuitive workflow, this project makes it easy to t
 
 ## 🚀 Live Demo
 
-🔗 **Live Site:** https://istiyaq5.github.io/Job-Application-Tracker/
+🔗 **Live Site:** (https://job-application-tracker-ten-alpha.vercel.app/)
 
 ---
 
